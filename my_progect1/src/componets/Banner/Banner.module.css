@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    width: 933px;
+    height: 460px;
+    background-color: #F8A126;
+    margin: 84px 247px 0 247px;
+    display: flex;
+}
+.banner > div{
+    width: 410px;
+    height: 205px;
+    padding: 105px 63px 0 63px;
+    color: white;
+}
+.banner > div > p{
+    text-align: center;
+    font-size: 32px;
+}
+.banner > div > p:nth-last-of-type(1){
+    font-size: 20px;
+    padding-top: 70px;
+}

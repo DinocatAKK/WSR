@@ -1,0 +1,16 @@
+.Content{
+    background-color: #F8A126;
+}
+.Content > div > h2{
+    color: white;
+    padding-top: 38px;
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+}   
+.Content > div > p{
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    padding: 19px 59px 0 59px;
+}

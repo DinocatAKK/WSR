@@ -1,0 +1,23 @@
+footer{
+    width: 1122px;
+    height: 140px;
+    background-color: #FFAE03;
+    margin: 91px 159px 0 159px;
+}
+.content{
+    width: 242px;
+    height: 70px;
+    padding: 47px 440px 23px 440px;
+}
+.content > p{
+    color: white;
+    padding: 0 37px 0 37px;
+    text-align: center;
+}
+.footer_img{
+    width: 242px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 23px;  
+}
